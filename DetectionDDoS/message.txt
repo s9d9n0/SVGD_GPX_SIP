@@ -1,0 +1,7 @@
+reception
+  PALO-ALTO :
+    seuilWarn_PaloAlto_dc1 = 150.000 // seuilCrit_PaloAlto_dc1 = 200.000
+    seuilWarn_PaloAlto_dc2 = 125.000 // seuilCrit_PaloAlto_dc2 = 175.000
+  DNS:
+    seuilWarn_DNS_dc1 = 25.000 // seuilCrit_DNS_dc1 = 35.000
+    seuilWarn_DNS_dc2 = 20.000 // seuilCrit_DNS_dc2 = 30.000
